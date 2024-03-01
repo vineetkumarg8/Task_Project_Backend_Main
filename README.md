@@ -1,4 +1,4 @@
-### Tools Used: 
+## Tools Used: <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:Node.js_logo.svg" alt="Nodejs" width="50" height="50"/> </a> <a href="https://www.postgresql.org/about/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
 * Nodejs version - 20.11.1,
 * Express (NPM version) - 10.4.0
 * PostgreSQL - 16.2
