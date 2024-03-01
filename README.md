@@ -1,9 +1,9 @@
-### Tools Used: 
-# Nodejs version - 20.11.1,
-# Express (NPM version) - 10.4.0
-# PostgreSQL - 16.2
+## Tools Used: 
+### Nodejs version - 20.11.1,
+### Express (NPM version) - 10.4.0
+### PostgreSQL - 16.2
 ## Setup PostgreSQL with Sequelize in Express
-# [(https://www.robinwieruch.de/postgres-express-setup-tutorial/)]
+### [(https://www.robinwieruch.de/postgres-express-setup-tutorial/)]
 ### First make sure PostGre Sql is working 
 * Then in index.js file modify the credential of database
 ### In my case this is
